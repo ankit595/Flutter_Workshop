@@ -3,6 +3,15 @@ Greetings Everyone!!✨
 DEVELOPER STUDENT CLUB   is inviting you all to attend a PROFICIENT WORKSHOP . 
 
 FLUTTER WORKSHOP
+
+# Sample 1
+![sample_1 with frame](https://user-images.githubusercontent.com/56728798/169289827-072c2b0f-67ed-48fe-b731-f160dc5fea7c.png)
+# Sample 2
+![sample_2_splash](https://user-images.githubusercontent.com/56728798/169289901-86019abb-ef3d-4a6f-be54-8645bd0cf15f.png)
+![sample_2_home](https://user-images.githubusercontent.com/56728798/169289945-ea87e4eb-1381-4727-8a19-9773194ef43b.png)
+![sample_2_aktu](https://user-images.githubusercontent.com/56728798/169290026-5e8c066d-6561-470a-ba88-7a9145134696.png)
+![sample_2_about](https://user-images.githubusercontent.com/56728798/169290035-0f3b6157-d2d3-4604-a8f1-4d0886ccd83c.png)
+
 HEY HEY!!!
 WHAT'S THE EVENT?
 
